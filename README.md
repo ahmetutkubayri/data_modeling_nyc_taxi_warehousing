@@ -28,8 +28,6 @@ This project models the **NYC Yellow Taxi Trip Records** as a Data Warehouse usi
 - `dim_payment_type` → Stores payment methods.
 
 ### **Entity-Relationship Diagram (ERD)**
-**Conceptual Model:**  
-![Dimensional Model](dimensional_model.png)
 
 **Logical Model:**  
 ![Logical Model](logical.png)
